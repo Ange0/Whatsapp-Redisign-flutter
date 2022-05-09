@@ -1,16 +1,15 @@
-# toto
+# Redisigner  WhatsApp  inspiréd du cour Driss AS 
 
-A new Flutter project.
+Petit projet de test de design avec flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+J'invite les novices en développement d'application mobile avec flutter à suivre ce mec, il est vraiment bon et ses cours sont en français.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Mon profile Linkedin](https://www.linkedin.com/in/kouassi-ange-yao-09b5b6192)
+- [Chaine Youtube Driss AS](https://www.youtube.com/channel/UCG1gQ5uOYAP8InWyW_AdkOg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Pour les illustrations suivez moi par ici
+[Mon profile Behance](https://www.behance.net/kouassiangeyao).
